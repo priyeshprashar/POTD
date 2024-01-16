@@ -18,14 +18,13 @@ In this problem due to smaller constraints , we can only use a recursive solutio
 
   - Return the sum of t and nt as the result.
 
- ## Code (c++)
- '''cpp
+ ## Code (C++)
  
 class Solution {
 
 public:
 
-    int solve(int n, int m) {
+        int solve(int n, int m) {
     
         if (m < n)
             return 0;
@@ -40,10 +39,9 @@ public:
 
     int numberSequence(int m, int n) {
         return solve(n, m);
-    }
+    }    
 };
 
-'''
 ## Thank You
 Thank you for checking out MyProject! 🚀
 
