@@ -1,1 +1,1 @@
-January POTD GFG solutin.
+January POTD GFG solution.
