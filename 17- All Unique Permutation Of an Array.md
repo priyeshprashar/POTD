@@ -1,6 +1,6 @@
 ## Problem Statement
 
-The given problem is [Problem Link](https://www.geeksforgeeks.org/problems/all-unique-permutations-of-an-array/1)
+The given problem is :- [Problem Link](https://www.geeksforgeeks.org/problems/all-unique-permutations-of-an-array/1)
 
 ## Approach
 - Input Validation:
