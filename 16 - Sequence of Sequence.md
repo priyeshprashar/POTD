@@ -20,6 +20,7 @@ In this problem due to smaller constraints , we can only use a recursive solutio
 
  ## Code (C++)
  
+```cpp 
 class Solution {
 
 public:
@@ -41,6 +42,7 @@ public:
         return solve(n, m);
     }    
 };
+```
 
 ## Thank You
 Thank you for checking out MyProject! 🚀
