@@ -1,1 +1,1 @@
-January POTD GFG solution.
+ POTD GFG solution.
