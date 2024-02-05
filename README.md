@@ -1,1 +1,1 @@
- POTD GFG solution.
+regular POTD GFG solution.
